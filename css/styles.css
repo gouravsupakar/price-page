@@ -1,0 +1,67 @@
+#pricing{
+    
+    position: relative;
+    text-align: center;
+    
+}
+
+.modal-body{
+    text-align: left;
+}
+
+.highlighted{
+    background-color: brown;
+}
+
+
+/* pricing-section */
+
+#pricing h2{
+    font-weight: bold ;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.card-header h3{
+    font-weight: 900;
+}
+
+.card-body h2{
+    font-weight: 600;
+}
+
+.pricing-col{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.last-card{
+    /* line-height: 1; */
+    padding-bottom: 15px;
+}
+
+
+
+
+/* slider section*/
+
+.slider-container {
+    margin: 20px;
+  }
+  
+  .pricing-plans {
+    display: flex;
+  }
+  
+  
+  
+  .highlighted {
+    background-image: linear-gradient(to right, #0074D9, #FFFFFF); /* Gradient from blue to white */
+    border: 2px solid #0074D9; /* Border color */
+    color: #000; /* Text color */
+  }
